@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "YD-APP",
+  "usingComponents": {
+    "yd-banner": "../../components/banner/banner",
+    "yd-category": "../../components/category/category",
+    "yd-search": "../../components/search/search-input",
+    "yd-list": "../../components/list/list"
+  }
+}

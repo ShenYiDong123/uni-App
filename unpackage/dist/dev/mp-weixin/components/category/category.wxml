@@ -1,0 +1,1 @@
+<view class="category-top"><view class="category-box"><view wx:for="{{a}}" wx:for-item="item" wx:key="b"><image class="category-image" src="{{item.a}}"></image></view></view></view>

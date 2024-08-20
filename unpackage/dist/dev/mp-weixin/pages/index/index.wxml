@@ -1,0 +1,1 @@
+<view class="index-box"><yd-search u-i="5a36b28e-0" bind:__l="__l"></yd-search><yd-banner u-i="5a36b28e-1" bind:__l="__l"></yd-banner><yd-category u-i="5a36b28e-2" bind:__l="__l"></yd-category><yd-list u-i="5a36b28e-3" bind:__l="__l"></yd-list></view>
